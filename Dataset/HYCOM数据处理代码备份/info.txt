@@ -1,0 +1,18 @@
+数据名字：HYCOM GOFS3.1 Global Reanalysis
+时间分辨率：3h
+空间分辨率：0.08° resolution between 40°S and 40°N, 0.04° poleward of these latitudes
+变量：water_u_bottom、water_v_bottom、water_temp_bottom、salinity_bottom、surf_el（关心后三个）
+链接：https://www.hycom.org/dataserver/gofs-3pt1/reanalysis
+Format，选择：unaggregated NetCDF，跳到下载页面
+简单计算大小：一个时间点，一个变量：3251*4500*32/8/1024/1024/1024=0.054499G
+
+使用wget下载，-c表示继续下载：
+wget -i filelist.txt -c
+注意：缺了一个数据hycom_GLBv0.08_530_1994010412_t006.nc，官方没给
+
+SPERR
+压缩
+/mnt/e/SPERR/build/bin/sperr3d -c /mnt/e/MarineDatasets/HYCOM/water_temp_bottom_aggregate.bin --ftype 32 --pwe 0.5 --dims 16 3251 4500 --bitstream /mnt/e/MarineDatasets/HYCOM/compressed_bitstream.bin --print_stats
+解压
+/mnt/e/SPERR/build/bin/sperr3d -d /mnt/e/MarineDatasets/HYCOM/compressed_bitstream.bin --decomp_f /mnt/e/MarineDatasets/HYCOM/decompressed_data.bin
+

@@ -1,0 +1,679 @@
+epoch 0 finish, all loss 0.6211886694572579, recon loss 0.3004453972424514, prob loss nan
+save model ...
+time:  139.47125053405762
+epoch 1 finish, all loss 0.05529458885547893, recon loss 0.047109926734809314, prob loss nan
+save model ...
+time:  146.28612637519836
+epoch 2 finish, all loss 0.05234764277097422, recon loss 0.041790689710578435, prob loss nan
+save model ...
+time:  147.64926528930664
+epoch 3 finish, all loss 0.05149015867739678, recon loss 0.039428939379987184, prob loss nan
+save model ...
+time:  142.23263311386108
+epoch 4 finish, all loss 0.039185371389572135, recon loss 0.03183774947193054, prob loss nan
+save model ...
+time:  138.579195022583
+epoch 5 finish, all loss 0.03624134391122005, recon loss 0.02944618704927806, prob loss nan
+save model ...
+time:  138.36625385284424
+epoch 6 finish, all loss 0.03512197572089828, recon loss 0.0283474887313647, prob loss nan
+save model ...
+time:  178.8726716041565
+epoch 7 finish, all loss 0.03415016418981224, recon loss 0.027454263326496836, prob loss nan
+save model ...
+time:  175.31216883659363
+epoch 8 finish, all loss 0.03352354902775503, recon loss 0.026916001080812203, prob loss nan
+save model ...
+time:  174.50763273239136
+epoch 9 finish, all loss 0.03283359600349146, recon loss 0.026319711390793313, prob loss nan
+save model ...
+time:  181.87100625038147
+epoch 10 finish, all loss 0.03207758553735131, recon loss 0.025646335991322086, prob loss nan
+save model ...
+time:  187.90379238128662
+epoch 11 finish, all loss 0.03159352316624091, recon loss 0.02522362770179872, prob loss nan
+save model ...
+time:  187.57763957977295
+epoch 12 finish, all loss 0.03145224125753877, recon loss 0.02509905181012298, prob loss nan
+save model ...
+time:  187.7786967754364
+epoch 13 finish, all loss 0.030634324027632984, recon loss 0.024375960238799985, prob loss nan
+save model ...
+time:  187.65911531448364
+epoch 14 finish, all loss 0.03039576602957193, recon loss 0.024217310955050263, prob loss nan
+save model ...
+time:  187.5564250946045
+epoch 15 finish, all loss 0.030179352133377777, recon loss 0.024041126901752405, prob loss nan
+save model ...
+time:  187.83702611923218
+epoch 16 finish, all loss 0.02971581497623587, recon loss 0.02363996952950833, prob loss nan
+save model ...
+time:  188.28883576393127
+epoch 17 finish, all loss 0.029377256437907593, recon loss 0.023348120516415192, prob loss nan
+save model ...
+time:  187.76753878593445
+epoch 18 finish, all loss 0.029018106386282442, recon loss 0.02304019655630677, prob loss nan
+save model ...
+time:  187.43126702308655
+epoch 19 finish, all loss 0.02866352399131888, recon loss 0.022738172912214496, prob loss nan
+save model ...
+time:  188.30527997016907
+epoch 20 finish, all loss 0.028332844619760576, recon loss 0.022481513711524643, prob loss nan
+save model ...
+time:  187.53869724273682
+epoch 21 finish, all loss 0.028102659725614765, recon loss 0.022322747180812497, prob loss nan
+save model ...
+time:  187.60163927078247
+epoch 22 finish, all loss 0.027890403935839265, recon loss 0.02216338897502228, prob loss nan
+save model ...
+time:  188.0381269454956
+epoch 23 finish, all loss 0.027458397597217462, recon loss 0.021786739293988985, prob loss nan
+save model ...
+time:  187.4918611049652
+epoch 24 finish, all loss 0.02709302898904395, recon loss 0.02152933639168374, prob loss nan
+save model ...
+time:  187.75450205802917
+epoch 25 finish, all loss 0.026832905818933703, recon loss 0.02131670764566755, prob loss nan
+save model ...
+time:  187.47682404518127
+epoch 26 finish, all loss 0.026896134881559564, recon loss 0.02140486488435513, prob loss nan
+time:  187.7815842628479
+epoch 27 finish, all loss 0.026362681616611112, recon loss 0.020940774096347106, prob loss nan
+save model ...
+time:  187.72369575500488
+epoch 28 finish, all loss 0.02605442275480683, recon loss 0.020726754068543112, prob loss nan
+save model ...
+time:  187.74553060531616
+epoch 29 finish, all loss 0.02584993491990077, recon loss 0.020602727020948213, prob loss nan
+save model ...
+time:  187.47028303146362
+epoch 30 finish, all loss 0.0256100350225952, recon loss 0.020435607007515632, prob loss nan
+save model ...
+time:  187.36333084106445
+epoch 31 finish, all loss 0.02546831035202562, recon loss 0.02033574154565124, prob loss nan
+save model ...
+time:  187.47742104530334
+epoch 32 finish, all loss 0.025395288333422878, recon loss 0.02030619293091499, prob loss nan
+save model ...
+time:  187.60842299461365
+epoch 33 finish, all loss 0.025015393012182342, recon loss 0.020005909924535954, prob loss nan
+save model ...
+time:  187.44571113586426
+epoch 34 finish, all loss 0.025093679485585624, recon loss 0.020124789042868126, prob loss nan
+time:  187.54527044296265
+epoch 35 finish, all loss 0.02483651838384857, recon loss 0.019930489178273676, prob loss nan
+save model ...
+time:  187.60567259788513
+epoch 36 finish, all loss 0.024729664165383292, recon loss 0.019874527898262554, prob loss nan
+save model ...
+time:  187.80203890800476
+epoch 37 finish, all loss 0.02436636479063202, recon loss 0.01958043874310242, prob loss nan
+save model ...
+time:  187.5218117237091
+epoch 38 finish, all loss 0.024376486709672626, recon loss 0.01959926120473308, prob loss nan
+time:  187.88650631904602
+epoch 39 finish, all loss 0.024251716098735655, recon loss 0.01952844502063707, prob loss nan
+save model ...
+time:  187.50180006027222
+epoch 40 finish, all loss 0.02421721439889797, recon loss 0.019508541528153713, prob loss nan
+save model ...
+time:  187.71877193450928
+epoch 41 finish, all loss 0.0240461935338208, recon loss 0.01934891834262371, prob loss nan
+save model ...
+time:  187.74327850341797
+epoch 42 finish, all loss 0.02382448176700062, recon loss 0.019158963748051303, prob loss nan
+save model ...
+time:  187.58451557159424
+epoch 43 finish, all loss 0.023665016500394306, recon loss 0.019004304603632515, prob loss nan
+save model ...
+time:  188.41882371902466
+epoch 44 finish, all loss 0.02363169555669298, recon loss 0.018971154803080804, prob loss nan
+save model ...
+time:  187.56431341171265
+epoch 45 finish, all loss 0.02364632182888793, recon loss 0.019014127358063033, prob loss nan
+time:  187.67360186576843
+epoch 46 finish, all loss 0.023399793066232633, recon loss 0.018807690325471242, prob loss nan
+save model ...
+time:  187.72241258621216
+epoch 47 finish, all loss 0.023169581663436335, recon loss 0.018605648360449353, prob loss nan
+save model ...
+time:  187.8522276878357
+epoch 48 finish, all loss 0.02313492664846378, recon loss 0.01861042042411055, prob loss nan
+time:  187.7715528011322
+epoch 49 finish, all loss 0.023162447979948837, recon loss 0.01865899935963231, prob loss nan
+time:  187.3635003566742
+epoch 50 finish, all loss 0.022987967441493225, recon loss 0.018514199674513794, prob loss nan
+save model ...
+time:  187.64467978477478
+epoch 51 finish, all loss 0.023023392948341728, recon loss 0.018554286067110473, prob loss nan
+time:  187.5082573890686
+epoch 52 finish, all loss 0.02280415513699224, recon loss 0.01838474771536096, prob loss nan
+save model ...
+time:  187.4763925075531
+epoch 53 finish, all loss 0.02327735662145401, recon loss 0.018823758125560558, prob loss nan
+time:  187.68984627723694
+epoch 54 finish, all loss 0.023149599441932654, recon loss 0.018725622679964436, prob loss nan
+time:  187.56093621253967
+epoch 55 finish, all loss 0.022456629470090198, recon loss 0.018118837849337145, prob loss nan
+save model ...
+time:  187.35437726974487
+epoch 56 finish, all loss 0.02244648693465673, recon loss 0.018105457461175343, prob loss nan
+save model ...
+time:  187.4365749359131
+epoch 57 finish, all loss 0.02216954770211063, recon loss 0.017872871977831106, prob loss nan
+save model ...
+time:  188.20801520347595
+epoch 58 finish, all loss 0.02226540709573639, recon loss 0.017968241353631315, prob loss nan
+time:  187.39654517173767
+epoch 59 finish, all loss 0.022030399298869192, recon loss 0.01777529422740846, prob loss nan
+save model ...
+time:  187.44428181648254
+epoch 60 finish, all loss 0.022000819276908043, recon loss 0.017771212022035958, prob loss nan
+save model ...
+time:  187.92904233932495
+epoch 61 finish, all loss 0.02192268713982533, recon loss 0.017681675949785893, prob loss nan
+save model ...
+time:  187.45018434524536
+epoch 62 finish, all loss 0.02205027477417101, recon loss 0.017788395696107205, prob loss nan
+time:  187.63842725753784
+epoch 63 finish, all loss 0.021832331518546712, recon loss 0.01761001525007125, prob loss nan
+save model ...
+time:  187.6617980003357
+epoch 64 finish, all loss 0.0219625021365163, recon loss 0.01770478547323889, prob loss nan
+time:  187.70246362686157
+epoch 65 finish, all loss 0.021885803476742245, recon loss 0.017625183325394204, prob loss nan
+time:  187.5987253189087
+epoch 66 finish, all loss 0.021688261719917206, recon loss 0.01746117493882708, prob loss nan
+save model ...
+time:  187.1908414363861
+epoch 67 finish, all loss 0.021685991408362575, recon loss 0.017419900541186122, prob loss nan
+save model ...
+time:  187.79967832565308
+epoch 68 finish, all loss 0.021738051080670343, recon loss 0.01747371651156465, prob loss nan
+time:  187.37392163276672
+epoch 69 finish, all loss 0.02165142705944571, recon loss 0.017367108175442375, prob loss nan
+save model ...
+time:  187.69672274589539
+epoch 70 finish, all loss 0.021583875413403203, recon loss 0.01729813905892492, prob loss nan
+save model ...
+time:  187.4927577972412
+epoch 71 finish, all loss 0.021468032626005055, recon loss 0.017187427233249054, prob loss nan
+save model ...
+time:  187.25009965896606
+epoch 72 finish, all loss 0.021550433253953328, recon loss 0.01728471696461504, prob loss nan
+time:  187.7009310722351
+epoch 73 finish, all loss 0.021368886635844544, recon loss 0.017118553642059588, prob loss nan
+save model ...
+time:  187.45923805236816
+epoch 74 finish, all loss 0.021432672605001205, recon loss 0.017154480209607453, prob loss nan
+time:  187.67677760124207
+epoch 75 finish, all loss 0.021421068347000367, recon loss 0.017109289299737495, prob loss nan
+save model ...
+time:  187.5097460746765
+epoch 76 finish, all loss 0.021444378581779548, recon loss 0.01716377660050611, prob loss nan
+time:  187.9815571308136
+epoch 77 finish, all loss 0.02147032776327962, recon loss 0.01720099863612721, prob loss nan
+time:  187.4674530029297
+epoch 78 finish, all loss 0.021419296861821726, recon loss 0.01713831107138554, prob loss nan
+time:  187.51490998268127
+epoch 79 finish, all loss 0.021375215935181702, recon loss 0.017119154633477646, prob loss nan
+time:  187.48059630393982
+epoch 80 finish, all loss 0.0214083085399869, recon loss 0.01709461829827392, prob loss nan
+save model ...
+time:  187.5751829147339
+epoch 81 finish, all loss 0.021336060182929786, recon loss 0.01703862508438605, prob loss nan
+save model ...
+time:  187.6771833896637
+epoch 82 finish, all loss 0.02151637173939625, recon loss 0.017195283484317155, prob loss nan
+time:  187.72750067710876
+epoch 83 finish, all loss 0.021339971602930014, recon loss 0.017001208629761826, prob loss nan
+save model ...
+time:  187.59445333480835
+epoch 84 finish, all loss 0.02142119914715664, recon loss 0.017019162522574936, prob loss nan
+time:  187.7155692577362
+epoch 85 finish, all loss 0.0214276143897563, recon loss 0.017044673916500337, prob loss nan
+time:  188.23084616661072
+epoch 86 finish, all loss 0.021577102533736944, recon loss 0.017142494202982823, prob loss nan
+time:  187.67877101898193
+epoch 87 finish, all loss 0.021278477363947647, recon loss 0.01688402953996882, prob loss nan
+save model ...
+time:  187.42244362831116
+epoch 88 finish, all loss 0.021304612725775107, recon loss 0.016883965281909465, prob loss nan
+save model ...
+time:  187.64350247383118
+epoch 89 finish, all loss 0.021412773840488158, recon loss 0.01696416697218488, prob loss nan
+time:  187.7157542705536
+epoch 90 finish, all loss 0.021342574213191124, recon loss 0.01688570219619706, prob loss nan
+time:  187.6035988330841
+epoch 91 finish, all loss 0.02127304653640555, recon loss 0.016807687985108337, prob loss nan
+save model ...
+time:  187.54097032546997
+epoch 92 finish, all loss 0.02128959038870861, recon loss 0.01680429518085623, prob loss nan
+save model ...
+time:  187.5189335346222
+epoch 93 finish, all loss 0.021189826164317326, recon loss 0.016724330064997624, prob loss nan
+save model ...
+time:  187.40843296051025
+epoch 94 finish, all loss 0.021120379114925987, recon loss 0.016642989649272442, prob loss nan
+save model ...
+time:  187.52138018608093
+epoch 95 finish, all loss 0.021221944677731544, recon loss 0.016736262462846076, prob loss nan
+time:  187.98882961273193
+epoch 96 finish, all loss 0.021078584918655968, recon loss 0.01657450850539271, prob loss nan
+save model ...
+time:  187.7590479850769
+epoch 97 finish, all loss 0.021201956827956905, recon loss 0.01664839914432335, prob loss nan
+time:  185.02293944358826
+epoch 98 finish, all loss 0.02163677970361083, recon loss 0.016970680404204214, prob loss nan
+time:  187.80077409744263
+epoch 99 finish, all loss 0.02107348677110171, recon loss 0.016497744647426964, prob loss nan
+save model ...
+time:  187.60819482803345
+epoch 100 finish, all loss 0.021180984347899973, recon loss 0.01659087052438722, prob loss nan
+time:  187.74480319023132
+epoch 101 finish, all loss 0.020936206239651093, recon loss 0.016411316710125388, prob loss nan
+save model ...
+time:  188.05161595344543
+epoch 102 finish, all loss 0.02087496142416287, recon loss 0.016363285813599467, prob loss nan
+save model ...
+time:  191.67447328567505
+epoch 103 finish, all loss 0.021324210593976343, recon loss 0.016690817305775686, prob loss nan
+time:  196.14976930618286
+epoch 104 finish, all loss 0.02090541748130666, recon loss 0.016333828814024245, prob loss nan
+save model ...
+time:  187.595285654068
+epoch 105 finish, all loss 0.020815942100784145, recon loss 0.01627848086740206, prob loss nan
+save model ...
+time:  187.73752069473267
+epoch 106 finish, all loss 0.020993055396230243, recon loss 0.01641545548402878, prob loss nan
+time:  187.72119307518005
+epoch 107 finish, all loss 0.020883572574996477, recon loss 0.01629462072399702, prob loss nan
+time:  187.63185715675354
+epoch 108 finish, all loss 0.020875791656789083, recon loss 0.016338963176069313, prob loss nan
+time:  187.66738271713257
+epoch 109 finish, all loss 0.020750191042218397, recon loss 0.01624783412757258, prob loss nan
+save model ...
+time:  187.5786428451538
+epoch 110 finish, all loss 0.02089565451809997, recon loss 0.016371681387079305, prob loss nan
+time:  187.89542436599731
+epoch 111 finish, all loss 0.02072044501383314, recon loss 0.016170646733346762, prob loss nan
+save model ...
+time:  187.43887186050415
+epoch 112 finish, all loss 0.02074659741522263, recon loss 0.016237504359099295, prob loss nan
+time:  187.30936861038208
+epoch 113 finish, all loss 0.020953429061633815, recon loss 0.016362947218929034, prob loss nan
+time:  187.65732836723328
+epoch 114 finish, all loss 0.020802025013189934, recon loss 0.016191912458058844, prob loss nan
+time:  188.65607976913452
+epoch 115 finish, all loss 0.020776956957782703, recon loss 0.016221264293551193, prob loss nan
+time:  187.6490044593811
+epoch 116 finish, all loss 0.020634350722719543, recon loss 0.016118605878460084, prob loss nan
+save model ...
+time:  187.67232656478882
+epoch 117 finish, all loss 0.020661372035454824, recon loss 0.01612937056380413, prob loss nan
+time:  187.39118266105652
+epoch 118 finish, all loss 0.020543550672144185, recon loss 0.01595951959088109, prob loss nan
+save model ...
+time:  187.78075790405273
+epoch 119 finish, all loss 0.02076232821945692, recon loss 0.016105883129348006, prob loss nan
+time:  187.41111516952515
+epoch 120 finish, all loss 0.020470766305720645, recon loss 0.015879919421166004, prob loss nan
+save model ...
+time:  187.70872282981873
+epoch 121 finish, all loss 0.020681281408730923, recon loss 0.016065537688667482, prob loss nan
+time:  187.62343668937683
+epoch 122 finish, all loss 0.020320768595224647, recon loss 0.015790091293929904, prob loss nan
+save model ...
+time:  187.56936502456665
+epoch 123 finish, all loss 0.020318811828487885, recon loss 0.015807074818605688, prob loss nan
+time:  187.81304454803467
+epoch 124 finish, all loss 0.020495729996182335, recon loss 0.015962779153463665, prob loss nan
+time:  187.73259234428406
+epoch 125 finish, all loss 0.02051383719618827, recon loss 0.015932360731886433, prob loss nan
+time:  187.45943570137024
+epoch 126 finish, all loss 0.020526063612209343, recon loss 0.015940956446133196, prob loss nan
+time:  187.33035111427307
+epoch 127 finish, all loss 0.020261460471985637, recon loss 0.015732113496702293, prob loss nan
+save model ...
+time:  187.79942679405212
+epoch 128 finish, all loss 0.02024870126190677, recon loss 0.015695663432429546, prob loss nan
+save model ...
+time:  187.30143523216248
+epoch 129 finish, all loss 0.02037043394919599, recon loss 0.015824735040524486, prob loss nan
+time:  187.7921223640442
+epoch 130 finish, all loss 0.020383221456970406, recon loss 0.015842050416936742, prob loss nan
+time:  187.37396669387817
+epoch 131 finish, all loss 0.020323291653454346, recon loss 0.01572939968871702, prob loss nan
+time:  187.4885745048523
+epoch 132 finish, all loss 0.020329427197636436, recon loss 0.01572060165666646, prob loss nan
+time:  187.39875960350037
+epoch 133 finish, all loss 0.02022243964564266, recon loss 0.015658934322669456, prob loss nan
+save model ...
+time:  187.40928030014038
+epoch 134 finish, all loss 0.020283165129423388, recon loss 0.015674981401843008, prob loss nan
+time:  187.83750939369202
+epoch 135 finish, all loss 0.020204800807871633, recon loss 0.015602774937524684, prob loss nan
+save model ...
+time:  187.48716235160828
+epoch 136 finish, all loss 0.020280007513960276, recon loss 0.015664510179311378, prob loss nan
+time:  187.3225507736206
+epoch 137 finish, all loss 0.02025658322117431, recon loss 0.015649101016780367, prob loss nan
+time:  187.63811922073364
+epoch 138 finish, all loss 0.02016412256386374, recon loss 0.01555633192928672, prob loss nan
+save model ...
+time:  188.0509431362152
+epoch 139 finish, all loss 0.020162377895342375, recon loss 0.015544179391579545, prob loss nan
+save model ...
+time:  187.6924147605896
+epoch 140 finish, all loss 0.020167720817338565, recon loss 0.015548456001967803, prob loss nan
+time:  187.73401069641113
+epoch 141 finish, all loss 0.02030379876351485, recon loss 0.015591567699432853, prob loss nan
+time:  187.52344012260437
+epoch 142 finish, all loss 0.020194846253590325, recon loss 0.01554679591749729, prob loss nan
+time:  187.82928848266602
+epoch 143 finish, all loss 0.019976663805031863, recon loss 0.015407300086775957, prob loss nan
+save model ...
+time:  187.80640387535095
+epoch 144 finish, all loss 0.019901537395943098, recon loss 0.015353421462299026, prob loss nan
+save model ...
+time:  187.47958087921143
+epoch 145 finish, all loss 0.019943019010988366, recon loss 0.015367466281722897, prob loss nan
+time:  187.39642667770386
+epoch 146 finish, all loss 0.020073395526546498, recon loss 0.015477799782054729, prob loss nan
+time:  187.71711540222168
+epoch 147 finish, all loss 0.020113108881119866, recon loss 0.015530425350161109, prob loss nan
+time:  187.6219720840454
+epoch 148 finish, all loss 0.01993951643276677, recon loss 0.015355883335923552, prob loss nan
+time:  187.60873103141785
+epoch 149 finish, all loss 0.019985998508467225, recon loss 0.015396990991199835, prob loss nan
+time:  187.6584186553955
+epoch 150 finish, all loss 0.02007852435533317, recon loss 0.015457966222247045, prob loss nan
+time:  187.45863723754883
+epoch 151 finish, all loss 0.01981721454486573, recon loss 0.015253985879958217, prob loss nan
+save model ...
+time:  187.66107153892517
+epoch 152 finish, all loss 0.020226150893352644, recon loss 0.015594816148244752, prob loss nan
+time:  187.61765241622925
+epoch 153 finish, all loss 0.0197921289580085, recon loss 0.01521854192724442, prob loss nan
+save model ...
+time:  187.80126476287842
+epoch 154 finish, all loss 0.019715216972016582, recon loss 0.015191964941991053, prob loss nan
+save model ...
+time:  187.6455738544464
+epoch 155 finish, all loss 0.019733501283705362, recon loss 0.015202147864962214, prob loss nan
+time:  187.54076433181763
+epoch 156 finish, all loss 0.019653994323348304, recon loss 0.015164229533148504, prob loss nan
+save model ...
+time:  187.74607515335083
+epoch 157 finish, all loss 0.019677398845050657, recon loss 0.015152505820760954, prob loss nan
+save model ...
+time:  187.6920952796936
+epoch 158 finish, all loss 0.01975675455956374, recon loss 0.015238271729309907, prob loss nan
+time:  187.99504613876343
+epoch 159 finish, all loss 0.019820925520962308, recon loss 0.015291158962756242, prob loss nan
+time:  187.72692966461182
+epoch 160 finish, all loss 0.019629018583345002, recon loss 0.015102782712366541, prob loss nan
+save model ...
+time:  187.58776235580444
+epoch 161 finish, all loss 0.01980186454441898, recon loss 0.015231806880260242, prob loss nan
+time:  187.59217739105225
+epoch 162 finish, all loss 0.019508021212254402, recon loss 0.01497618377914703, prob loss nan
+save model ...
+time:  187.5797257423401
+epoch 163 finish, all loss 0.019705534769345986, recon loss 0.015154281071234059, prob loss nan
+time:  187.80574297904968
+epoch 164 finish, all loss 0.019683022732536293, recon loss 0.015097022085241305, prob loss nan
+time:  187.6092848777771
+epoch 165 finish, all loss 0.019654070311865786, recon loss 0.015060672336699877, prob loss nan
+time:  187.44488549232483
+epoch 166 finish, all loss 0.019698902006181816, recon loss 0.015062321914804682, prob loss nan
+time:  187.6393928527832
+epoch 167 finish, all loss 0.019629749928091193, recon loss 0.015032559116990928, prob loss nan
+time:  187.4496808052063
+epoch 168 finish, all loss 0.01952340954907759, recon loss 0.014970594843188606, prob loss nan
+save model ...
+time:  187.59295392036438
+epoch 169 finish, all loss 0.019582644676391352, recon loss 0.014990650173672779, prob loss nan
+time:  187.4979887008667
+epoch 170 finish, all loss 0.019458445307987727, recon loss 0.014889418829912487, prob loss nan
+save model ...
+time:  187.58434104919434
+epoch 171 finish, all loss 0.019633256689070178, recon loss 0.015040660016374162, prob loss nan
+time:  187.80664253234863
+epoch 172 finish, all loss 0.01947073611577019, recon loss 0.014896183513170229, prob loss nan
+time:  187.94289803504944
+epoch 173 finish, all loss 0.019704164763370655, recon loss 0.015044276270050705, prob loss nan
+time:  187.3516731262207
+epoch 174 finish, all loss 0.019752607679375367, recon loss 0.015036594860029328, prob loss nan
+time:  187.68097114562988
+epoch 175 finish, all loss 0.019819419741933277, recon loss 0.015119625060170954, prob loss nan
+time:  187.83390259742737
+epoch 176 finish, all loss 0.019388608848727857, recon loss 0.014849865125490346, prob loss nan
+save model ...
+time:  187.80260634422302
+epoch 177 finish, all loss 0.01943988984799734, recon loss 0.014848594751170282, prob loss nan
+save model ...
+time:  188.04191136360168
+epoch 178 finish, all loss 0.019542310965450393, recon loss 0.014906083373074402, prob loss nan
+time:  187.502108335495
+epoch 179 finish, all loss 0.01935169514794593, recon loss 0.014742991927573033, prob loss nan
+save model ...
+time:  187.46952295303345
+epoch 180 finish, all loss 0.019616873360800882, recon loss 0.014958443166660684, prob loss nan
+time:  187.95788764953613
+epoch 181 finish, all loss 0.019391534129029532, recon loss 0.014794308170754297, prob loss nan
+time:  187.6118357181549
+epoch 182 finish, all loss 0.019247404658769413, recon loss 0.014686215344009922, prob loss nan
+save model ...
+time:  188.19224786758423
+epoch 183 finish, all loss 0.019325061294872815, recon loss 0.014698443066279644, prob loss nan
+time:  187.64154362678528
+epoch 184 finish, all loss 0.019453301353209076, recon loss 0.014794662295733741, prob loss nan
+time:  187.6184380054474
+epoch 185 finish, all loss 0.01942031857249031, recon loss 0.014791474591237811, prob loss nan
+time:  187.94510507583618
+epoch 186 finish, all loss 0.01921540561462128, recon loss 0.014590635374405438, prob loss nan
+save model ...
+time:  187.5117359161377
+epoch 187 finish, all loss 0.019312094910292333, recon loss 0.014698755322774463, prob loss nan
+time:  187.72594285011292
+epoch 188 finish, all loss 0.019162911636575092, recon loss 0.014543247056807613, prob loss nan
+save model ...
+time:  187.3993899822235
+epoch 189 finish, all loss 0.019294817839700513, recon loss 0.014653440570547889, prob loss nan
+time:  187.49507403373718
+epoch 190 finish, all loss 0.019264767328196347, recon loss 0.014668588577403838, prob loss nan
+time:  188.00367069244385
+epoch 191 finish, all loss 0.019270845708549256, recon loss 0.014675612952504916, prob loss nan
+time:  187.9379060268402
+epoch 192 finish, all loss 0.01937644536192199, recon loss 0.014763600464231074, prob loss nan
+time:  187.70649123191833
+epoch 193 finish, all loss 0.01927420548625467, recon loss 0.014628012883986036, prob loss nan
+time:  187.59093046188354
+epoch 194 finish, all loss 0.019344374404622458, recon loss 0.014671293887837765, prob loss nan
+time:  187.59657502174377
+epoch 195 finish, all loss 0.01908413425282782, recon loss 0.014475507656209271, prob loss nan
+save model ...
+time:  187.58331418037415
+epoch 196 finish, all loss 0.019209755259806924, recon loss 0.014569889242870867, prob loss nan
+time:  187.81412315368652
+epoch 197 finish, all loss 0.019279351846352388, recon loss 0.014584894436776017, prob loss nan
+time:  187.87597274780273
+epoch 198 finish, all loss 0.019216747777009043, recon loss 0.014546871377972774, prob loss nan
+time:  187.68060088157654
+epoch 199 finish, all loss 0.019165708222688517, recon loss 0.01450171321171698, prob loss nan
+time:  187.88816332817078
+epoch 200 finish, all loss 0.01921868353222316, recon loss 0.014509282326751098, prob loss nan
+time:  187.7537341117859
+epoch 201 finish, all loss 0.019258953502877867, recon loss 0.014611861486691346, prob loss nan
+time:  187.95953726768494
+epoch 202 finish, all loss 0.01911260251349398, recon loss 0.014467912011491632, prob loss nan
+save model ...
+time:  187.57861948013306
+epoch 203 finish, all loss 0.019256624355230633, recon loss 0.014585900951365983, prob loss nan
+time:  187.34770941734314
+epoch 204 finish, all loss 0.018904110967214442, recon loss 0.014267884520699261, prob loss nan
+save model ...
+time:  187.78398418426514
+epoch 205 finish, all loss 0.01886312117506575, recon loss 0.014283742559364833, prob loss nan
+time:  187.75143814086914
+epoch 206 finish, all loss 0.0191652539537367, recon loss 0.014523937287306981, prob loss nan
+time:  187.7512755393982
+epoch 207 finish, all loss 0.018970539318520694, recon loss 0.014330559628255244, prob loss nan
+time:  187.58387804031372
+epoch 208 finish, all loss 0.019216978540212856, recon loss 0.014561313094880958, prob loss nan
+time:  187.66760325431824
+epoch 209 finish, all loss 0.01908051526513976, recon loss 0.014399645071189472, prob loss nan
+time:  187.7555947303772
+epoch 210 finish, all loss 0.018887866548882026, recon loss 0.014277770893595243, prob loss nan
+time:  187.51808953285217
+epoch 211 finish, all loss 0.019056264448239837, recon loss 0.01443077161842361, prob loss nan
+time:  188.02797961235046
+epoch 212 finish, all loss 0.0189756847051909, recon loss 0.01428266920480945, prob loss nan
+time:  187.74417233467102
+epoch 213 finish, all loss 0.018995577091582786, recon loss 0.014307737916655898, prob loss nan
+time:  187.57028245925903
+epoch 214 finish, all loss 0.01918237888062963, recon loss 0.014488007263585482, prob loss nan
+time:  187.69396471977234
+epoch 215 finish, all loss 0.01896263555064197, recon loss 0.014307470522255776, prob loss nan
+time:  187.94974088668823
+epoch 216 finish, all loss 0.019063270492257544, recon loss 0.01441368700329172, prob loss nan
+time:  187.6793658733368
+epoch 217 finish, all loss 0.01889209470386551, recon loss 0.014218862054581534, prob loss nan
+save model ...
+time:  187.88148713111877
+epoch 218 finish, all loss 0.018897686855343907, recon loss 0.014249219079261397, prob loss nan
+time:  187.56859612464905
+epoch 219 finish, all loss 0.018890536205194854, recon loss 0.014248800992246118, prob loss nan
+time:  187.79728031158447
+epoch 220 finish, all loss 0.01884382198307644, recon loss 0.014203631243778379, prob loss nan
+save model ...
+time:  188.15988993644714
+epoch 221 finish, all loss 0.01887348514616052, recon loss 0.014203360015116209, prob loss nan
+save model ...
+time:  187.7157804965973
+epoch 222 finish, all loss 0.01885959126762637, recon loss 0.014195696212554194, prob loss nan
+save model ...
+time:  187.6666760444641
+epoch 223 finish, all loss 0.018732359724030423, recon loss 0.014086024127485343, prob loss nan
+save model ...
+time:  187.78602766990662
+epoch 224 finish, all loss 0.018736025197616375, recon loss 0.014096286724588061, prob loss nan
+time:  187.41764664649963
+epoch 225 finish, all loss 0.01869238815475603, recon loss 0.014095869459293957, prob loss nan
+time:  187.67671847343445
+epoch 226 finish, all loss 0.019142438631768094, recon loss 0.014453076199989331, prob loss nan
+time:  187.70172834396362
+epoch 227 finish, all loss 0.01884054944962586, recon loss 0.014165789778600741, prob loss nan
+time:  187.3724422454834
+epoch 228 finish, all loss 0.01892376326964526, recon loss 0.01427904482049198, prob loss nan
+time:  187.69465613365173
+epoch 229 finish, all loss 0.0188500676297203, recon loss 0.014210626089136324, prob loss nan
+time:  187.56420040130615
+epoch 230 finish, all loss 0.01877489852595162, recon loss 0.014160818580954101, prob loss nan
+time:  188.7045760154724
+epoch 231 finish, all loss 0.01872689163400164, recon loss 0.01409963025901981, prob loss nan
+time:  187.5319049358368
+epoch 232 finish, all loss 0.018735121597240938, recon loss 0.01410305254211177, prob loss nan
+time:  187.533597946167
+epoch 233 finish, all loss 0.018744886725517256, recon loss 0.014113687947887478, prob loss nan
+time:  187.8931381702423
+epoch 234 finish, all loss 0.01870162742608515, recon loss 0.01405438372253482, prob loss nan
+save model ...
+time:  188.04159927368164
+epoch 235 finish, all loss 0.018818104594085262, recon loss 0.01418295568900497, prob loss nan
+time:  187.66499829292297
+epoch 236 finish, all loss 0.018712858898264784, recon loss 0.014058453946495708, prob loss nan
+time:  187.5747902393341
+epoch 237 finish, all loss 0.018550452436678414, recon loss 0.013952025025664732, prob loss nan
+save model ...
+time:  187.56309866905212
+epoch 238 finish, all loss 0.018723936499309975, recon loss 0.014121400525816159, prob loss nan
+time:  187.70286774635315
+epoch 239 finish, all loss 0.018934827272700103, recon loss 0.014247368642386352, prob loss nan
+time:  187.73781847953796
+epoch 240 finish, all loss 0.018598703354613517, recon loss 0.013893778670601127, prob loss nan
+save model ...
+time:  187.2674000263214
+epoch 241 finish, all loss 0.0187209654324409, recon loss 0.014056453714138223, prob loss nan
+time:  187.4051742553711
+epoch 242 finish, all loss 0.018743286445277993, recon loss 0.014040792031509281, prob loss nan
+time:  187.73409986495972
+epoch 243 finish, all loss 0.01857590578903451, recon loss 0.013931516808628624, prob loss nan
+time:  187.6904101371765
+epoch 244 finish, all loss 0.01896339031727582, recon loss 0.014273957507588262, prob loss nan
+time:  187.5368914604187
+epoch 245 finish, all loss 0.01891100133575414, recon loss 0.014190145535104745, prob loss nan
+time:  187.50208592414856
+epoch 246 finish, all loss 0.018857828822335335, recon loss 0.014118448120162703, prob loss nan
+time:  187.60178661346436
+epoch 247 finish, all loss 0.018444395461822433, recon loss 0.013821819938174131, prob loss nan
+save model ...
+time:  187.66963481903076
+epoch 248 finish, all loss 0.018440323665213056, recon loss 0.013767277034186167, prob loss nan
+save model ...
+time:  187.58664536476135
+epoch 249 finish, all loss 0.01849308876590455, recon loss 0.013855946437397642, prob loss nan
+time:  187.6778666973114
+epoch 250 finish, all loss 0.018671516428084903, recon loss 0.01399242365159545, prob loss nan
+time:  187.48184871673584
+epoch 251 finish, all loss 0.01862174064236029, recon loss 0.013938330539590094, prob loss nan
+time:  187.6195752620697
+epoch 252 finish, all loss 0.018810750823147704, recon loss 0.014064053658695874, prob loss nan
+time:  187.64364743232727
+epoch 253 finish, all loss 0.018465223906481205, recon loss 0.01384753459528226, prob loss nan
+time:  187.56233978271484
+epoch 254 finish, all loss 0.01848649526747771, recon loss 0.013882035774900148, prob loss nan
+time:  188.30526447296143
+epoch 255 finish, all loss 0.018447198029586314, recon loss 0.01379270193404338, prob loss nan
+time:  187.55177307128906
+epoch 256 finish, all loss 0.018531315625550555, recon loss 0.013913018355873273, prob loss nan
+time:  187.70771861076355
+epoch 257 finish, all loss 0.01832084485933911, recon loss 0.01371783319438077, prob loss nan
+save model ...
+time:  187.8536365032196
+epoch 258 finish, all loss 0.018452923163381534, recon loss 0.0138229262440969, prob loss nan
+time:  187.6068081855774
+epoch 259 finish, all loss 0.018558278101351758, recon loss 0.01387356206369835, prob loss nan
+time:  187.66817235946655
+epoch 260 finish, all loss 0.01859545722689574, recon loss 0.013926232967124287, prob loss nan
+time:  187.49949264526367
+epoch 261 finish, all loss 0.01859088162039343, recon loss 0.013927362661986905, prob loss nan
+time:  187.70186972618103
+epoch 262 finish, all loss 0.01850826207613471, recon loss 0.013917261372139618, prob loss nan
+time:  187.67872190475464
+epoch 263 finish, all loss 0.018421521287016216, recon loss 0.013852658225998203, prob loss nan
+time:  187.70058417320251
+epoch 264 finish, all loss 0.01843396921761183, recon loss 0.01382740363172396, prob loss nan
+time:  187.42339396476746
+epoch 265 finish, all loss 0.01824203682896006, recon loss 0.0136682859201532, prob loss nan
+save model ...
+time:  187.46114826202393
+epoch 266 finish, all loss 0.01846799477840623, recon loss 0.013866535599035137, prob loss nan
+time:  188.0002191066742
+epoch 267 finish, all loss 0.018535198251775426, recon loss 0.013872594519117933, prob loss nan
+time:  187.3531036376953
+epoch 268 finish, all loss 0.018525953046371363, recon loss 0.013876036651498145, prob loss nan
+time:  187.72093176841736
+epoch 269 finish, all loss 0.01833677029354674, recon loss 0.013732344892875718, prob loss nan
+time:  187.5187017917633
+epoch 270 finish, all loss 0.01817065517182986, recon loss 0.01362160652150932, prob loss nan
+save model ...
+time:  187.6892340183258
+epoch 271 finish, all loss 0.01862014992937564, recon loss 0.013957419102022564, prob loss nan
+time:  187.7764129638672
+epoch 272 finish, all loss 0.01834427981879748, recon loss 0.013687241867784632, prob loss nan
+time:  187.61710786819458
+epoch 273 finish, all loss 0.018659572991568077, recon loss 0.013938438336900135, prob loss nan
+time:  188.09050059318542
+epoch 274 finish, all loss 0.018384262322534112, recon loss 0.013754555973505337, prob loss nan
+time:  187.75652933120728
+epoch 275 finish, all loss 0.018195296380168525, recon loss 0.013613222939624817, prob loss nan
+save model ...
+time:  187.8280062675476
+epoch 276 finish, all loss 0.018353705229632644, recon loss 0.013710121110798898, prob loss nan
+time:  187.79711246490479
+epoch 277 finish, all loss 0.018284700770046142, recon loss 0.013680433701830792, prob loss nan
+time:  166.96265769004822
+epoch 278 finish, all loss 0.018111424624650766, recon loss 0.013538311084030537, prob loss nan
+save model ...
